@@ -1,0 +1,26 @@
+{
+  "name": "bab",
+  "version": "1.0.0",
+  "dependencies": {
+    "decode-uri-component": {
+      "version": "0.2.0",
+      "from": "decode-uri-component@>=0.2.0 <0.3.0",
+      "resolved": "https://registry.npmjs.org/decode-uri-component/-/decode-uri-component-0.2.0.tgz"
+    },
+    "query-string": {
+      "version": "6.0.0",
+      "from": "query-string@6.0.0",
+      "resolved": "https://registry.npmjs.org/query-string/-/query-string-6.0.0.tgz"
+    },
+    "strict-uri-encode": {
+      "version": "2.0.0",
+      "from": "strict-uri-encode@>=2.0.0 <3.0.0",
+      "resolved": "https://registry.npmjs.org/strict-uri-encode/-/strict-uri-encode-2.0.0.tgz"
+    },
+    "vue": {
+      "version": "2.5.16",
+      "from": "vue@>=2.5.2 <3.0.0",
+      "resolved": "https://registry.npmjs.org/vue/-/vue-2.5.16.tgz"
+    }
+  }
+}
